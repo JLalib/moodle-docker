@@ -1,4 +1,4 @@
-# 🎓 moodle-docker: Plataforma de educación virtual Moodle con Docker
+# 🎓 Moodle: Plataforma de educación virtual Moodle con Docker
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositorio-blue)](https://github.com/JLalib/moodle-docker)
 [![Docker](https://img.shields.io/badge/Docker-Moodle-blue)](https://hub.docker.com/r/bitnami/moodle)
